@@ -1,0 +1,50 @@
+001	basketball	this ball is round and orange color with black pattern lines.
+002	basketball	this ball is round and orange color with black pattern lines.
+003 	basketball	this ball is round and orange color with black pattern lines on the grass.
+004	basketball	this ball is round and orange color with black pattern lines.
+005	basketball	this ball is round and brwon color with black pattern lines.
+006	basketball	this ball is round and brown color with black pattern lines.
+007	basketball	this ball is round and brown color with black pattern lines on hands.
+008	basketball	this ball is round and orange color with black pattern lines.
+009	basketball	this ball is round and brown color with black pattern lines.
+010	basketball	this ball is round and orange color with black pattern lines.
+011	baseball	this ball is round and white color with red pattern lines.
+012	baseball	this ball is round and white color with red pattern lines.
+013	baseball	this ball is round and white color with red pattern lines.
+014	baseball	this ball is round and white color with red pattern lines.
+015	baseball	this ball is round and white color with red pattern lines.
+016	baseball	this ball is round and white color with red pattern lines.
+017	baseball	this ball is round and white color with red pattern lines on the grass.
+018	baseball	this ball is round and white color with red pattern lines.
+019	baseball	this ball is round and white color with red pattern lines.
+020	baseball	this ball is round and white color with red pattern lines.
+021	soccerball 	this ball is round and white color with black pattern pentagons.
+022	soccerball 	this ball is round and white color with black pattern pentagons.
+023	soccerball 	this ball is round and white color with black pattern pentagons.
+024	soccerball 	this ball is round and white color with black pattern pentagons.
+025	soccerball 	this ball is round and white color with black pattern pentagons on the floor.
+026	soccerball 	this ball is round and white color with black pattern pentagons.
+027	soccerball 	this ball is round and white color with black pattern pentagons.
+028	soccerball 	this ball is round and white color with black pattern pentagons.
+029	soccerball 	this ball is round and white color with black pattern pentagons on the ground.
+030	soccerball 	this ball is round and white color with black pattern pentagons.
+031	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+032	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+033	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+034	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+035	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+036	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+037	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+038	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+039	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+040	americanfootball 	this ball is ellipse and brown color with white pattern lines.
+041	golfball	this ball is round and white color with dimply surface.
+042	golfball	this ball is round and white color with dimply surface.
+043	golfball	this ball is round and white color with dimply surface.
+044	golfball	this ball is round and white color with dimply surface.
+045	golfball	this ball is round and white color with dimply surface on the pin.
+046	golfball	this ball is round and white color with dimply surface.
+047	golfball	this ball is round and white color with dimply surface.
+048	golfball	this ball is round and white color with dimply surface.
+049	golfball	this ball is round and white color with dimply surface.
+050	golfball	this ball is round and white color with dimply surface on the grass.
